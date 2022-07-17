@@ -1,0 +1,14 @@
+.jsonfile:hover {
+    background: #efefef;
+    border: #a1a1a1;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.jsonfile {
+    padding: 10px;
+}
+
+pre {
+    background-color: black !important;
+}

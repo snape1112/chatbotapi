@@ -1,0 +1,10 @@
+pre {
+    height: auto;
+    max-height: 700px;
+    color: white;
+    overflow: auto;
+    background-color: hsl(0, 0%, 0%);
+    word-break: normal !important;
+    word-wrap: normal !important;
+    white-space: pre !important;
+}
